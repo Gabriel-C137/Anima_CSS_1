@@ -31,5 +31,6 @@ Firefox e/ou Microsoft Edge)
 
 ### Código HTML5 do meu projeto
 
-''<div class="planet"></div>
+'''
+<div class="planet"></div>
 <div class="star"></div>
