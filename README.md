@@ -5,5 +5,5 @@ Animação Feita por mim utilizando apenas CSS e HTML, representa o magnetismo.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
-<a href="https://www.instagram.com/gabriel_c137/">Siga-me</a>   and    <a href="https://github.com/Gabriel-C137">Acompanhe o meu perfil para ver a evolução</a>
+<a href="https://www.instagram.com/gabriel_c137/">Siga-me no Instagram</a>    <br>and<br>  <a href="https://github.com/Gabriel-C137">Acompanhe o meu perfil para ver a evolução</a>
 </div>
