@@ -1,5 +1,5 @@
 # Anima_CSS_1
-Animação Feita por mim utilizando apenas CSS e HTML, representa o magnetismo.
+Animação Feita por mim utilizando apenas CSS e HTML, representa o magnetismo.<br>
 Feito pelo [|Codepen](https://codepen.io/sawwzozo-the-vuer/pen/RwmWxrw)
 <br>
 <div align="center">
