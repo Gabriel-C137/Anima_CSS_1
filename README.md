@@ -13,7 +13,7 @@ Feito pelo [|Codepen](https://codepen.io/sawwzozo-the-vuer/pen/RwmWxrw)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🖇️ Colabo## 🖇️ Colaboração:
+##  🖇️ Colaboração:
 
 * Professor Márcio - Fatec Franca
 * W3Schools.com.br - Site de Ensino sobre Programação [w3School](https://www.w3schools.com/html/default.asp)
