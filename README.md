@@ -19,3 +19,11 @@ Feito pelo [|Codepen](https://codepen.io/sawwzozo-the-vuer/pen/RwmWxrw)
 * W3Schools.com.br - Site de Ensino sobre Programação [w3School](https://www.w3schools.com/html/default.asp)
 * Gustavo Guanabra - Curso em Vídeo [Acesse aqui](https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-2-de-5-40-horas/)
 * Canal dpw - Youtube.com.br [Acesse aqui](https://www.youtube.com/@dpwoficial)
+
+<br>
+
+### 📋 Pré-requisitos:
+
+Esse também não é nessesário nenhuma pré-instalação para a execução/vizualização desse projeto, basta um navegador de internet (como Google Chrome, Mozilla 
+Firefox e/ou Microsoft Edge)
+<hr>
